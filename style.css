@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+background-color: gray;
+color: white;
+padding: 10px;
+}
+.header_div{
+    background-color: rgb(68, 68, 68);
+    font-size: 30px;
+}
+.main_div{
+    font-size: 25px;
+    margin: 50px;
+    padding: 25px;
+}
